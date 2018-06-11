@@ -3,7 +3,7 @@
 ## <span style="color: turquoise">Share Space</span>
 
 #### _Animations_
-_UI - Week 4-
+_UI - Week 4_
 
 
 ### <span style="color: coral">Dawn Mott</span> :sunrise_over_mountains:
